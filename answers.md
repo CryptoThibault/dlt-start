@@ -1,8 +1,8 @@
 ##answers
 
-1) Dans le cas où le nombre de transactions dans le Block à valider est impair, la derniére transactions s'ajoute à la racine de l'arbre et génére un Merlke root afin de cloturé de le block.
+1) Dans le cas où le nombre de transactions dans le Block à valider est impair, la derniére transactions s'ajoute à la racine de l'arbre et génére un Merlke root afin de cloturé le block.
 
-2) Dans le réseau Bitcoin, les nouveaux noeuds sont connecté à un noeud d'amorcage temporaire avant d'être connécté au réseau. Le processus de vérification intervient à ce moment afin de vérifié l'authenticité des transcations du reste du réseau.
+2) Dans le réseau Bitcoin, les nouveaux noeuds sont connecté à un noeud d'amorcage temporaire avant d'être connécté au réseau. Le processus de vérification intervient à ce moment afin de vérifié l'authenticité des transactions du reste du réseau.
 
 3) En 1991, Ronald Rivest créer une fonction de hachage cryptographique permettant d'obtenir l'empreinte nuémrique d'un fichier.
 Même si la fonction est totalement dépassé et présente des risques de sécurités, elle a inspiré le fonctionnement de nombreuses technologies de cryptographie notament celle utilisé de nos jours sur Bitcoin et les blockchain en général.
